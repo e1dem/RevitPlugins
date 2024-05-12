@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RevitDebugProfile": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Autodesk\\Revit 2025\\Revit.exe"
+    }
+  }
+}
